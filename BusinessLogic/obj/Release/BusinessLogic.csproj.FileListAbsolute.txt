@@ -1,0 +1,10 @@
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Release\BusinessLogic.dll.config
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Release\BusinessLogic.dll
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Release\BusinessLogic.pdb
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Release\DataLogic.dll
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Release\Domain.dll
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Release\DataLogic.pdb
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Release\Domain.pdb
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\obj\Release\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\obj\Release\BusinessLogic.dll
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\obj\Release\BusinessLogic.pdb

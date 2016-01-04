@@ -1,0 +1,16 @@
+F:\Vijay Computer\Chahine files most\Benetton\DataLogic\obj\Debug\DataLogic.csprojResolveAssemblyReference.cache
+F:\Vijay Computer\Chahine files most\Benetton\DataLogic\bin\Debug\DataLogic.dll.config
+F:\Vijay Computer\Chahine files most\Benetton\DataLogic\bin\Debug\DataLogic.dll
+F:\Vijay Computer\Chahine files most\Benetton\DataLogic\bin\Debug\DataLogic.pdb
+F:\Vijay Computer\Chahine files most\Benetton\DataLogic\bin\Debug\Domain.dll
+F:\Vijay Computer\Chahine files most\Benetton\DataLogic\bin\Debug\Domain.pdb
+F:\Vijay Computer\Chahine files most\Benetton\DataLogic\obj\Debug\DataLogic.dll
+F:\Vijay Computer\Chahine files most\Benetton\DataLogic\obj\Debug\DataLogic.pdb
+F:\Vijay Computer\Projects\Benetton\DataLogic\bin\Debug\DataLogic.dll.config
+F:\Vijay Computer\Projects\Benetton\DataLogic\bin\Debug\DataLogic.dll
+F:\Vijay Computer\Projects\Benetton\DataLogic\bin\Debug\DataLogic.pdb
+F:\Vijay Computer\Projects\Benetton\DataLogic\bin\Debug\Domain.dll
+F:\Vijay Computer\Projects\Benetton\DataLogic\bin\Debug\Domain.pdb
+F:\Vijay Computer\Projects\Benetton\DataLogic\obj\Debug\DataLogic.csprojResolveAssemblyReference.cache
+F:\Vijay Computer\Projects\Benetton\DataLogic\obj\Debug\DataLogic.dll
+F:\Vijay Computer\Projects\Benetton\DataLogic\obj\Debug\DataLogic.pdb

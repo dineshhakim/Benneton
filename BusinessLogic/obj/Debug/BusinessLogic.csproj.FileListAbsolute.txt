@@ -1,0 +1,20 @@
+F:\Vijay Computer\Chahine files most\Benetton\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Vijay Computer\Chahine files most\Benetton\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+F:\Vijay Computer\Chahine files most\Benetton\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\Vijay Computer\Chahine files most\Benetton\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\Vijay Computer\Chahine files most\Benetton\BusinessLogic\bin\Debug\DataLogic.dll
+F:\Vijay Computer\Chahine files most\Benetton\BusinessLogic\bin\Debug\Domain.dll
+F:\Vijay Computer\Chahine files most\Benetton\BusinessLogic\bin\Debug\DataLogic.pdb
+F:\Vijay Computer\Chahine files most\Benetton\BusinessLogic\bin\Debug\Domain.pdb
+F:\Vijay Computer\Chahine files most\Benetton\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\Vijay Computer\Chahine files most\Benetton\BusinessLogic\obj\Debug\BusinessLogic.pdb
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Debug\DataLogic.dll
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Debug\Domain.dll
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Debug\DataLogic.pdb
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\bin\Debug\Domain.pdb
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\Vijay Computer\Projects\Benetton\BusinessLogic\obj\Debug\BusinessLogic.pdb

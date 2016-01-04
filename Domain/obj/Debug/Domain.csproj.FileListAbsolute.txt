@@ -1,0 +1,11 @@
+F:\Vijay Computer\Chahine files most\Benetton\Domain\bin\Debug\Domain.dll.config
+F:\Vijay Computer\Chahine files most\Benetton\Domain\bin\Debug\Domain.dll
+F:\Vijay Computer\Chahine files most\Benetton\Domain\bin\Debug\Domain.pdb
+F:\Vijay Computer\Chahine files most\Benetton\Domain\obj\Debug\Domain.dll
+F:\Vijay Computer\Chahine files most\Benetton\Domain\obj\Debug\Domain.pdb
+F:\Vijay Computer\Projects\Benetton\Domain\bin\Debug\Domain.dll.config
+F:\Vijay Computer\Projects\Benetton\Domain\bin\Debug\Domain.dll
+F:\Vijay Computer\Projects\Benetton\Domain\bin\Debug\Domain.pdb
+F:\Vijay Computer\Projects\Benetton\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+F:\Vijay Computer\Projects\Benetton\Domain\obj\Debug\Domain.dll
+F:\Vijay Computer\Projects\Benetton\Domain\obj\Debug\Domain.pdb

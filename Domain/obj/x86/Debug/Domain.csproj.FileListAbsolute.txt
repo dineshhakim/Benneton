@@ -1,0 +1,5 @@
+F:\Vijay Computer\Projects\Benetton\Domain\bin\x86\Debug\Domain.dll.config
+F:\Vijay Computer\Projects\Benetton\Domain\bin\x86\Debug\Domain.dll
+F:\Vijay Computer\Projects\Benetton\Domain\bin\x86\Debug\Domain.pdb
+F:\Vijay Computer\Projects\Benetton\Domain\obj\x86\Debug\Domain.dll
+F:\Vijay Computer\Projects\Benetton\Domain\obj\x86\Debug\Domain.pdb
